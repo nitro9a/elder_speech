@@ -1,10 +1,10 @@
 [app]
 
 # (str) Title of your application
-title = Learn Trigedasleng!
+title = Learn Elder Speech!
 
 # (str) Package name
-package.name = trigedasleng
+package.name = elder_speech
 
 # (str) Package domain (needed for android/ios packaging)
 package.domain = org.test
@@ -46,10 +46,10 @@ requirements = python3,kivy,sqlite3,plyer
 garden_requirements = recycleview, scrolllabel
 
 # (str) Presplash of the application
-presplash.filename = images/trikru_flag.png
+presplash.filename = images/witcher_igni.png
 
 # (str) Icon of the application
-icon.filename = images/trikru_icon.png
+icon.filename = images/witcher_igni_icon.png
 
 # (str) Supported orientation (one of landscape, sensorLandscape, portrait or all)
 orientation = all

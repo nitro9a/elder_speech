@@ -24,7 +24,7 @@ from kivy.uix.screenmanager import ScreenManager, Screen, NoTransition
 from kivy.properties import ObjectProperty, ListProperty, StringProperty, BooleanProperty
 from kivy.loader import Loader
 
-Loader.loading_image = 'images/trikru_flag.png'
+Loader.loading_image = 'images/witcher_igni.png'
 
 dgrey = (45/255, 45/255, 45/255, 1)
 red = (155/255, 10/255, 10/255, 1)

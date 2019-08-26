@@ -13,7 +13,7 @@ Builder.load_string('''
     fsize: 100
     Label:
         markup: True
-        font_name: 'fonts/Roboto_Mono/RobotoMono-Regular.ttf'
+        font_name: 'fonts/aparaj.ttf'
         size_hint_y: None
         height: self.texture_size[1]
         text_size: self.width, None
